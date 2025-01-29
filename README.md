@@ -71,13 +71,8 @@
 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jeremi-lab/jeremi-lab/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<img align="right" height="200" src="https://imgur.com/nkp8h.png"  />
+<img align="right" height="400" src="https://imgur.com/nkp8h.png"  />
 
 ###
