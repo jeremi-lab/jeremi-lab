@@ -1,4 +1,4 @@
-<<h2 align="left">Hi 👋! My name is Jeremi and I'm a programer, from Poland</h2>
+<h2 align="left">Hi 👋! My name is Jeremi and I'm a programer, from Poland</h2>
 
 ###
 
@@ -73,6 +73,6 @@
 ###
 ###
 
-<img align="right" height="400" src="https://imgur.com/nkp8h.png"  />
+<img align="right" height="300" src="https://imgur.com/nkp8h.png"  />
 
 ###
