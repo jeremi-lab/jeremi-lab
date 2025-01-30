@@ -66,8 +66,7 @@
 <div align="center">
   <a href="https://open.spotify.com/user/jeremi.labiszewski">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeremi.labiszewski&count=2" alt="Spotify recently played"  />
-    [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeremi.labiszewski)](https://open.spotify.com/user/jeremi.labiszewski)
-  </a>
+  </a>)
 </div>
 
 ###
